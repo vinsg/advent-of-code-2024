@@ -1,5 +1,3 @@
-package ca.vinsg
-
 import kotlin.math.abs
 
 

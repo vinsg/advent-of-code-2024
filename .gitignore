@@ -45,4 +45,4 @@ bin/
 .DS_Store
 
 ### DON'T COMMIT THE AOC PROBLEM FILES
-/src/main/resources/
+/resources/
